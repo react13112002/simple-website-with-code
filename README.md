@@ -1,2 +1,2 @@
 # simple-website-with-code
-simple website with code(html and css only)
+create simple website with code(html and css only)
